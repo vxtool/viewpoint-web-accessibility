@@ -1,7 +1,11 @@
 # Viewpoint Web Accessibility
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/viewpoint-solutions/viewpoint-web-accessibility.svg?style=flat-square)](https://github.com/viewpoint-solutions/viewpoint-web-accessibility/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/viewpoint-web-accessibility.svg)](https://github.com/org-victorinox/viewpoint-web-accessibility/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/viewpoint-web-accessibility.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/viewpoint-web-accessibility.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/viewpoint-web-accessibility.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/viewpoint-web-accessibility/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/viewpoint-solutions/viewpoint-web-accessibility/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/viewpoint-web-accessibility/releases) for detailed changelog.
 
 ## License
 
